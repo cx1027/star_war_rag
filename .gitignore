@@ -2,7 +2,7 @@
 rag/
 
 # Ignore all files in the data folder
-data/*
+# data/*
 
 # Ignore all files in common/__pycache__
 common/__pycache__/*
