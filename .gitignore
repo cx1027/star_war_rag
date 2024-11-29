@@ -1,0 +1,8 @@
+# Ignore the virtual environment directory
+rag/
+
+# Ignore all files in the data folder
+data/*
+
+# Ignore all files in common/__pycache__
+common/__pycache__/*
